@@ -48,3 +48,5 @@ Enterprise-grade HR management platform.
 
 **Working with:** Python · FastAPI · Flask · TypeScript · Next.js · PostgreSQL ·
 scikit-learn · Streamlit · Docker
+
+📍 Delhi, India
