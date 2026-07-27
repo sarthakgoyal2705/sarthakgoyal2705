@@ -131,8 +131,17 @@ class SarthakGoyal:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarthakgoyal2705&show_icons=true&hide_border=true&theme=react&bg_color=0d1117&title_color=4FC3F7&icon_color=0288D1&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakgoyal2705&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakgoyal2705&theme=github_dark" width="100%" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthakgoyal2705&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthakgoyal2705&theme=github_dark" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthakgoyal2705&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarthakgoyal2705&theme=github_dark&utcOffset=5.5" />
 
 <br/><br/>
 
